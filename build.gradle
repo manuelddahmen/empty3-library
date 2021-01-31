@@ -63,7 +63,7 @@ compile "com.github.zakgof:velvet-video-natives:0.2.6.full"
 
 
 application {
-    mainClass = 'ver.serpentins.Serpentins2'
+    mainClass = 'test3.waterfall_demo.Waterfall_Demo'
 
 }
 
