@@ -12,10 +12,7 @@
 plugins { 
   id 'application'  
 }
-application {
-    mainClass = 'ver.serpentins.Serpentins2'
 
-}
 // In this section you declare where to find the dependencies of your project
 
 
@@ -66,7 +63,10 @@ compile "com.github.zakgof:velvet-video-natives:0.2.6.full"
 }
 
 
+application {
+    mainClass = 'ver.serpentins.Serpentins2'
 
+}
 
 
 
